@@ -2,10 +2,6 @@
 
 This Application shows the mock data of bills of material
 
-## Live Demo
-
-[View Live Demo]()
-
 ## Screenshots
 
 ![screenshot](screenshot.png)
